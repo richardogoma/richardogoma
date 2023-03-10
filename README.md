@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working on building an ELT data pipeline with Python
-- 🌱 I’m currently learning Data Engineering
+- 🔭 I’m currently working on building a data engineering portfolio.
+- 🌱 I’m currently learning data engineering
 - 👯 I’m looking to collaborate on developing data engineering related projects
-- 💬 Ask me about Data Management, SQL, Python, and BI/Data Analytics
+- 💬 Ask me about ETL, Data Management, SQL, Python, and BI/Data Analytics
 - 📫 Send me an email: [richard.ogoma@outlook.com](mailto:richard.ogoma@outlook.com)
 
 <!--
