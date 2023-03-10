@@ -1,4 +1,11 @@
 ### Hi there 👋
+- 🔭 I’m currently working on building an ELT data pipeline with Python
+- 🌱 I’m currently learning Data Engineering
+- 👯 I’m looking to collaborate on developing data engineering related projects
+- 💬 Ask me about Data Management, SQL, Python, and BI/Data Analytics
+- 📫 How to reach me: [richard.ogoma@outlook.com](mailto:richard.ogoma@outlook.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am single
 
 <!--
 **richardogoma/richardogoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
