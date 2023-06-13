@@ -22,7 +22,7 @@ for topic in user_info['topics']:
 ### Hi there 👋
 ```
 - 🌱 I am learning data engineering on Azure data platform
-- 🔭 I am working on building a data engineering portfolio. This year 2023, I have worked the following project themes:
+- 🔭 I am working on building a data engineering portfolio. This year 2023, I have worked on the following project themes:
     - Ingesting data from RESTFul APIs (Batch & Streaming pipeline modes)
     - Developing ETL pipelines to integrate data from diverse sources, including APIs, embedded/client-server databases, 
     AVRO files, and delimited files to support BI processes and data management workflows
