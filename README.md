@@ -24,7 +24,7 @@ for topic in user_info['topics']:
 - 🌱 I am learning data engineering on Azure data platform
 - 🔭 I am working on building a data engineering portfolio. This year 2023, I have worked the following project themes:
     - Ingesting data from RESTFul APIs (Batch & Streaming pipeline modes)
-    - Developing ETL pipelines to integrate data from diverse sources, including REST APIs, embedded/client-server databases, 
+    - Developing ETL pipelines to integrate data from diverse sources, including APIs, embedded/client-server databases, 
     AVRO files, and delimited files to support BI processes and data management workflows
     - Developed data quality enhancement tools (CLITs) to ensure the accuracy and reliability of data in ETL pipelines
     - Developed microservices and web applications to leverage data for creating value-added services.
