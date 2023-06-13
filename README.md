@@ -1,21 +1,18 @@
-### Hi there 👋
-- 🔭 I’m currently working on building a data engineering portfolio.
-- 🌱 I’m currently learning data engineering
-- 👯 I’m looking to collaborate on developing data engineering related projects
-- 💬 Ask me about ETL, Data Management, SQL, Python, and BI/Data Analytics
-- 📫 Send me an email: [richard.ogoma@outlook.com](mailto:richard.ogoma@outlook.com)
+```python
+# Define the user's information using a dictionary
+user_info = {
+    'learning': 'data engineering',
+    'working_on': 'building a data engineering portfolio',
+    'collaboration_interest': 'developing data engineering related projects',
+    'topics': ['Data Management', 'Business Intelligence & Data Analytics', 'ETL', 'SQL', 'Python', 'Shell Scripting']
+}
 
-<!--
-**richardogoma/richardogoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Print the user's information
+print("Hi there 👋")
+print(f"- 🌱 I’m currently learning {user_info['learning']}")
+print(f"- 🔭 I’m currently working on {user_info['working_on']}")
+print(f"- 👯 I’m looking to collaborate on {user_info['collaboration_interest']}")
+print("- 💬 Ask me about:")
+for topic in user_info['topics']:
+    print(f"  - {topic}")
+```
