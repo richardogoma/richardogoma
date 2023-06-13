@@ -16,17 +16,3 @@ print("- 💬 Ask me about:")
 for topic in user_info['topics']:
     print(f"  - {topic}")
 ```
-```shell
-Hi there 👋
-- 🌱 I’m currently learning data engineering
-- 🔭 I’m currently working on building a data engineering portfolio
-- 👯 I’m looking to collaborate on developing data engineering related projects
-- 💬 Ask me about:
-  - Data Management
-  - Business Intelligence & Data Analytics
-  - ETL
-  - SQL
-  - Python
-  - Shell Scripting
-```
-
