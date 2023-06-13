@@ -4,7 +4,7 @@ user_info = {
     'learning': 'data engineering',
     'working_on': 'building a data engineering portfolio',
     'collaboration_interest': 'developing data engineering related projects',
-    'topics': ['Data Quality Management', 'Business Intelligence & Data Analytics', 'ETL', 'SQL', 'Python', 'Shell Scripting']
+    'topics': ['Data Quality Management', 'Business Intelligence & Data Analytics', 'ETL', 'SQL', 'Python', 'Bash']
 }
 
 # Print the user's information
