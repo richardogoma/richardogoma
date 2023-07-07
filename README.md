@@ -21,8 +21,8 @@ for topic in user_info['topics']:
  
 ### Hi there 👋
 ```
-- 🌱 I am learning data engineering
-- 🔭 I am working on building a data engineering portfolio
-- 👯 I am looking to collaborate on data engineering-related projects
-- 💬 Ask me about Data Quality Management, Business Intelligence & Data Analytics
+🌱 I am a data integration specialist, learning data engineering
+🔭 I am building a data engineering portfolio
+👯 I am looking to collaborate on data engineering-related projects
+💬 Ask me about Data Quality Management, Business Intelligence & Data Analytics
 ```
